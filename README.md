@@ -1,7 +1,7 @@
 # PPS_y_PI
 
 ## Indice
-* **Tutorial Sklearn**
+* Tutorial Sklearn
     1. [Introduccion aprendizaje automatico](tutorial-sklearn/notebooks-spanish/01-introduccion_aprendizaje_automatico.ipynb)
     2. [Herramientas cientificas python](tutorial-sklearn/notebooks-spanish/02-herramientas_cientificas_python.ipynb)
     3. [Representación y visualización de datos](tutorial-sklearn/notebooks-spanish/03-representacion_datos_aa.ipynb)
