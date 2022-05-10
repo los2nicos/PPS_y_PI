@@ -2,4 +2,4 @@
 
 ## Indice
 * tutorial sklearn
-** introduccion_aprendizaje_automatico [notebook_1](tutorial-sklearn/notebooks-spanish/01-introduccion_aprendizaje_automatico.html)
+  - introduccion_aprendizaje_automatico [notebook_1](tutorial-sklearn/notebooks-spanish/01-introduccion_aprendizaje_automatico.html)
