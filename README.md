@@ -25,3 +25,6 @@
     21. [Reducción de dimensionalidad no lineal](tutorial-sklearn/notebooks-spanish/21-reduccion_dimensionalidad_no_lineal.ipynb)
     22. [Detección de anomalías](tutorial-sklearn/notebooks-spanish/22-deteccion_anomalias.ipynb)
     23. [Aprendizaje *out-of-core*](tutorial-sklearn/notebooks-spanish/23-aprendizaje_out_of_core.ipynb)
+
+* Tutorial RL aplicado a videojuegos
+    1. [Ejercicio de Q_learning resuelto en notebook: Taxi_V_3](https://github.com/los2nicos/PPS_y_PI/blob/main/RL_aplicado_a_videojuegos/Taxi_v_3.ipynb)
