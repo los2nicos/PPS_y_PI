@@ -27,4 +27,6 @@
     23. [Aprendizaje *out-of-core*](tutorial-sklearn/notebooks-spanish/23-aprendizaje_out_of_core.ipynb)
 
 * Tutorial RL aplicado a videojuegos
-    1. [Ejercicio de Q_learning resuelto en notebook: Taxi_V_3](https://github.com/los2nicos/PPS_y_PI/blob/main/RL_aplicado_a_videojuegos/Taxi_v_3.ipynb)
+    1. [Introducción Deep Reinforcement Learning](https://thomassimonini.medium.com/an-introduction-to-deep-reinforcement-learning-17a565999c0c)
+    2. [Q-Learning] (https://thomassimonini.medium.com/q-learning-lets-create-an-autonomous-taxi-part-1-2-3e8f5e764358)
+    3. [Ejercicio de Q_learning resuelto en notebook: Taxi_V_3](https://github.com/los2nicos/PPS_y_PI/blob/main/RL_aplicado_a_videojuegos/Taxi_v_3.ipynb)
