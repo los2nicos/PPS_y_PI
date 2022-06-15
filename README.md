@@ -32,3 +32,6 @@
     3. [Ejercicio de Q_learning resuelto en notebook: Taxi_V_3](https://github.com/los2nicos/PPS_y_PI/blob/main/RL_aplicado_a_videojuegos/Taxi_v_3.ipynb)
     4. [Aprendizaje por Refuerzo](https://www.aprendemachinelearning.com/aprendizaje-por-refuerzo/)
     5. [Ejercicio resuelto en notebook: Pong_con_Matplotlib](https://github.com/los2nicos/PPS_y_PI/blob/main/RL_aplicado_a_videojuegos/Pong_con_Matplotlib.ipynb)
+
+* Otros
+    1. [Micocubo](https://github.com/los2nicos/PPS_y_PI/blob/main/Otros_practicos/Micocubo_v_0_0_1.ipynb)
