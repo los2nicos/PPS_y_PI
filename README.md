@@ -35,3 +35,4 @@
 
 * Otros
     1. [Micocubo](https://github.com/los2nicos/PPS_y_PI/blob/main/Otros_practicos/Micocubo_v_0_0_1.ipynb)
+    2. [Busqueda por Amplitud y generacion de sesgo para tabla q](https://colab.research.google.com/drive/1DoWq4FFY4rSDPE7R14q_Kd6pep-o0acZ?usp=sharing)
